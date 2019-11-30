@@ -123,4 +123,7 @@
   <data name="FullName" xml:space="preserve">
     <value>TeljesNev</value>
   </data>
+  <data name="ToFile" xml:space="preserve">
+    <value>Fileba írás</value>
+  </data>
 </root>
