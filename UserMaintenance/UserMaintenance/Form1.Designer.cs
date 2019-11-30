@@ -64,21 +64,21 @@
             // 
             // txtLastName
             // 
-            this.txtLastName.Location = new System.Drawing.Point(339, 13);
+            this.txtLastName.Location = new System.Drawing.Point(377, 15);
             this.txtLastName.Name = "txtLastName";
             this.txtLastName.Size = new System.Drawing.Size(159, 20);
             this.txtLastName.TabIndex = 3;
             // 
             // txtFirstName
             // 
-            this.txtFirstName.Location = new System.Drawing.Point(339, 41);
+            this.txtFirstName.Location = new System.Drawing.Point(377, 44);
             this.txtFirstName.Name = "txtFirstName";
             this.txtFirstName.Size = new System.Drawing.Size(159, 20);
             this.txtFirstName.TabIndex = 4;
             // 
             // btnAdd
             // 
-            this.btnAdd.Location = new System.Drawing.Point(301, 93);
+            this.btnAdd.Location = new System.Drawing.Point(320, 92);
             this.btnAdd.Name = "btnAdd";
             this.btnAdd.Size = new System.Drawing.Size(197, 35);
             this.btnAdd.TabIndex = 5;
@@ -90,7 +90,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(509, 295);
+            this.ClientSize = new System.Drawing.Size(554, 295);
             this.Controls.Add(this.btnAdd);
             this.Controls.Add(this.txtFirstName);
             this.Controls.Add(this.txtLastName);
